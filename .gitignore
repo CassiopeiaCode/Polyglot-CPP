@@ -1,0 +1,16 @@
+# C++ build artifacts
+cpps/
+gmon.out
+
+# Runtime data
+cpp_files.json
+
+# Python build artifacts
+*.egg-info/
+__pycache__/
+
+# Dependency lock file
+uv.lock
+
+# Editor-specific files
+.vscode/
