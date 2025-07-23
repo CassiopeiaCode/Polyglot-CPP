@@ -37,8 +37,8 @@
 
 1.  **克隆仓库:**
     ```bash
-    git clone https://github.com/your-username/polyglot-cpp.git
-    cd polyglot-cpp
+    git clone https://github.com/CassiopeiaCode/Polyglot-CPP.git
+    cd Polyglot-CPP
     ```
 
 2.  **安装依赖:**

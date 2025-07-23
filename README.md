@@ -37,8 +37,8 @@ These tools must be available in your system's `PATH`.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/polyglot-cpp.git
-    cd polyglot-cpp
+    git clone https://github.com/CassiopeiaCode/Polyglot-CPP.git
+    cd Polyglot-CPP
     ```
 
 2.  **Install dependencies:**
