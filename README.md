@@ -18,7 +18,7 @@ The Model Context Protocol (MCP) is revolutionizing how AI models interact with 
 ## ✨ Key Features
 
 - **🚀 On-the-Fly Compilation**: Compiles C++ code using `clang++` with essential flags enabled.
-- **🏃‍♂️ Secure Execution**: Runs compiled code in a sandboxed environment with a 10-second timeout to prevent infinite loops.
+- **🏃‍♂️ Timeout-Controlled Execution**: Runs compiled code with a 10-second execution timeout to prevent infinite loops and runaway processes.
 - **🐞 Integrated Memory Debugging**: Automatically enables AddressSanitizer (`-fsanitize=address`) to catch common memory errors like segmentation faults and buffer overflows, providing detailed reports.
 - **⏱️ Performance Profiling**: Generates a concise performance report using `gprof` to identify hotspots and function call times.
 - **💾 Persistent Artifacts**: Compiled programs are stored for 24 hours, allowing for repeated execution without recompilation.
