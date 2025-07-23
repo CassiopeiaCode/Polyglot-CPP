@@ -59,7 +59,7 @@ To start the MCP server, run `main.py`:
 python main.py
 ```
 
-The server will start and be accessible on `100.64.0.1:53482` using the SSE transport.
+The server will start and be accessible on `0.0.0.0:53482` using the SSE transport.
 
 ## 🌐 The MCP Ecosystem
 

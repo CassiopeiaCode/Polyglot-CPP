@@ -217,4 +217,4 @@ async def create_and_run_program(content: str, custom_input: str = "", expected_
     return await _create_and_run_program(content, custom_input, expected_output)
 
 if __name__ == "__main__":
-    mcp.run(transport="sse", host="100.64.0.1", port=53482)
+    mcp.run(transport="sse", host="0.0.0.0", port=53482)
